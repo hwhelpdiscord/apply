@@ -1,1 +1,1 @@
-# adminonly
+# ADMINS ONLY
